@@ -1,14 +1,18 @@
-# React + TypeScript + Vite + Zustand + TailwindCSS + ReactRouterDom
+# Dashboard and Authentication
 
-Este es un cascarón de proyecto, siéntete libre de usarlo para tus proyectos.
+This project is a chance to strengthen my skills in:
 
-<img src="https://github.com/Klerith/zustand-mini-curso/blob/main/public/screenshot.png?raw=true" alt="Dashboard Screenshot">
+### Stack
+- React
+- TypeScript
+- Vite
+- Zustand
+- TailwindCSS
+- ReactRouterDom
 
+## Install
 
-
-## Instalar
-
-1. Clonar proyecto
-2. Instalar dependencias ```npm install```
-3. Correr en desarrollo ```npm run dev```
+1. Clone this project
+2. Install dependencies ```npm install```
+3. Run project ```npm run dev```
 
