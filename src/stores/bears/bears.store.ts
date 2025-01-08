@@ -23,7 +23,7 @@ interface BearsState {
   clearBears: () => void
 }
 
-export const userBearsStore = create<BearsState>((set, get) => ({
+export const userBearsStore = create<BearsState>()((set, get) => ({
   blackBears: 10,
   polarBears: 5,
   pandaBears: 2,
